@@ -1,8 +1,8 @@
 # Superstore Sales Analysis
 
-You can download the original US Superstore dataset from <a href='https://datawonders.atlassian.net/wiki/spaces/TABLEAU/blog/2022/10/26/1953431553/Where+Can+I+Find+Superstore+Sales#Workbooks-and-Data-Sources' target='_blank'>here</a>
+You can download the original US Superstore dataset from [here] (https://datawonders.atlassian.net/wiki/spaces/TABLEAU/blog/2022/10/26/1953431553/Where+Can+I+Find+Superstore+Sales#Workbooks-and-Data-Sources){:target='_blank'}
 
-Tableau Dashboard available <a href='https://public.tableau.com/app/profile/wiktor.matuszyk/viz/Superstore_17416040428020/Dashboard1' target='_blank'>here</a>
+Tableau Dashboard available [here](https://public.tableau.com/app/profile/wiktor.matuszyk/viz/Superstore_17416040428020/Dashboard1){:target='_blank'}
 
 ## Key Insights
  - Sales, Profit, and Order Count have shown an overall upward trend.
